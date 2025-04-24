@@ -1,0 +1,7 @@
+dash
+dash-bootstrap-components
+plotly
+pandas
+scikit-learn
+pygam
+# Add other dependencies if your xspliner_py library requires them explicitly 

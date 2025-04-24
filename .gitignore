@@ -1,0 +1,18 @@
+# Ignore downloaded R source
+xspliner-master/
+
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*build/
+*.egg-info/
+dist/
+
+# Dash specific
+.env
+*.db
+instance/*
+
+# OS specific
+.DS_Store 
